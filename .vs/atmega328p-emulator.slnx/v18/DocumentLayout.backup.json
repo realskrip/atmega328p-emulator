@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C779FC6-2B06-48D6-AEBB-9F67E3AAB258}|atmega328p-emulator\\atmega328p-emulator.csproj|c:\\users\\dskripnikov\\desktop\\atmega328p-emulator\\atmega328p-emulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C779FC6-2B06-48D6-AEBB-9F67E3AAB258}|atmega328p-emulator\\atmega328p-emulator.csproj|solutionrelative:atmega328p-emulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C779FC6-2B06-48D6-AEBB-9F67E3AAB258}|atmega328p-emulator\\atmega328p-emulator.csproj|c:\\users\\dskripnikov\\desktop\\atmega328p-emulator\\atmega328p-emulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C779FC6-2B06-48D6-AEBB-9F67E3AAB258}|atmega328p-emulator\\atmega328p-emulator.csproj|solutionrelative:atmega328p-emulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\atmega328p-emulator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "atmega328p-emulator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\atmega328p-emulator\\MainWindow.xaml",
+              "RelativeToolTip": "atmega328p-emulator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-02T07:26:57.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\atmega328p-emulator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "atmega328p-emulator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\atmega328p-emulator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "atmega328p-emulator\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:26:53.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
