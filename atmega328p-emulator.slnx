@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/Core/" />
+  <Folder Name="/Programmer/" />
+  <Project Path="Console/Console.csproj" Id="be5a8278-0ce6-426d-9343-fee146010154" />
+</Solution>
