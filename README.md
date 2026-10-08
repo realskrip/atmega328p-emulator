@@ -1,1 +1,6 @@
-ATmega328p emulator
+### ATmega328p emulator
+
+## Tools
+- C#
+- .NET
+- Git/GitHub

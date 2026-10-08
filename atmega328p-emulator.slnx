@@ -1,5 +1,5 @@
 <Solution>
-  <Folder Name="/Core/" />
-  <Folder Name="/Programmer/" />
-  <Project Path="Console/Console.csproj" Id="be5a8278-0ce6-426d-9343-fee146010154" />
+  <Project Path="Console/Console.csproj" Id="b906a25f-f3ec-4f54-8ee5-c1162653725f" />
+  <Project Path="Core/Core.csproj" Id="9dec3546-3645-405f-ab03-d378ccf78efe" />
+  <Project Path="ProgrammerBase/ProgrammerBase.csproj" Id="a1b7e441-7105-45a8-8638-b59ef8c18891" />
 </Solution>

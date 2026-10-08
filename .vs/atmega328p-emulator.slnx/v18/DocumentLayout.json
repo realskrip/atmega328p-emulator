@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B906A25F-F3EC-4F54-8EE5-C1162653725F}|Console\\Console.csproj|c:\\users\\dskripnikov\\desktop\\atmega328p-emulator\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B906A25F-F3EC-4F54-8EE5-C1162653725F}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B7E441-7105-45A8-8638-B59EF8C18891}|ProgrammerBase\\ProgrammerBase.csproj|c:\\users\\dskripnikov\\desktop\\atmega328p-emulator\\programmerbase\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B7E441-7105-45A8-8638-B59EF8C18891}|ProgrammerBase\\ProgrammerBase.csproj|solutionrelative:programmerbase\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC3546-3645-405F-AB03-D378CCF78EFE}|Core\\Core.csproj|c:\\users\\dskripnikov\\desktop\\atmega328p-emulator\\core\\atmega328p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEC3546-3645-405F-AB03-D378CCF78EFE}|Core\\Core.csproj|solutionrelative:core\\atmega328p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\Console\\Program.cs",
+              "RelativeDocumentMoniker": "Console\\Program.cs",
+              "ToolTip": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\Console\\Program.cs",
+              "RelativeToolTip": "Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:03:18.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\ProgrammerBase\\Programmer.cs",
+              "RelativeDocumentMoniker": "ProgrammerBase\\Programmer.cs",
+              "ToolTip": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\ProgrammerBase\\Programmer.cs",
+              "RelativeToolTip": "ProgrammerBase\\Programmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:52:03.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ATmega328p.cs",
+              "DocumentMoniker": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\Core\\ATmega328p.cs",
+              "RelativeDocumentMoniker": "Core\\ATmega328p.cs",
+              "ToolTip": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\Core\\ATmega328p.cs",
+              "RelativeToolTip": "Core\\ATmega328p.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:41:37.287Z",
+              "EditorCaption": ""
             }
           ]
         }

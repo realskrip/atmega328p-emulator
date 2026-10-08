@@ -1,0 +1,13 @@
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\bin\Debug\net10.0\ProgrammerBase.deps.json
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\bin\Debug\net10.0\ProgrammerBase.dll
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\bin\Debug\net10.0\ProgrammerBase.pdb
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\obj\Debug\net10.0\ProgrammerBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\obj\Debug\net10.0\ProgrammerBase.AssemblyInfoInputs.cache
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\obj\Debug\net10.0\ProgrammerBase.AssemblyInfo.cs
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\obj\Debug\net10.0\ProgrammerBase.csproj.CoreCompileInputs.cache
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\obj\Debug\net10.0\ProgrammerBase.sourcelink.json
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\obj\Debug\net10.0\ProgrammerBase.dll
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\obj\Debug\net10.0\refint\ProgrammerBase.dll
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\obj\Debug\net10.0\ProgrammerBase.pdb
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\obj\Debug\net10.0\ref\ProgrammerBase.dll
+C:\Users\dskripnikov\Desktop\atmega328p-emulator\ProgrammerBase\obj\Debug\net10.0\Programm.68262FDE.Up2Date

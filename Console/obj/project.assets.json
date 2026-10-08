@@ -1,11 +1,46 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "ProgrammerBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ProgrammerBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProgrammerBase.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
+    "ProgrammerBase/1.0.0": {
+      "type": "project",
+      "path": "../ProgrammerBase/ProgrammerBase.csproj",
+      "msbuildProject": "../ProgrammerBase/ProgrammerBase.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Core >= 1.0.0",
+      "ProgrammerBase >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\dskripnikov\\.nuget\\packages\\": {},
@@ -39,7 +74,14 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\Core\\Core.csproj"
+            },
+            "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\ProgrammerBase\\ProgrammerBase.csproj": {
+              "projectPath": "C:\\Users\\dskripnikov\\Desktop\\atmega328p-emulator\\ProgrammerBase\\ProgrammerBase.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
