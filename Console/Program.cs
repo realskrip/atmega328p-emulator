@@ -9,7 +9,7 @@
 
             byte[] firmware = programmer.GetFirmwareFromHex(@"c:\blink.hex");
 
-            aTmega328P.LoadFirmwareFlash(firmware);
+            aTmega328P.LoadFirmwareInFlash(firmware);
             aTmega328P.Run();
         }
     }

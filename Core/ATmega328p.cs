@@ -4,7 +4,7 @@
     {
         private Memory.Flash flash = new Core.Memory.Flash();
         
-        public void LoadFirmwareFlash(byte[] firmware)
+        public void LoadFirmwareInFlash(byte[] firmware)
         {
             flash.LoadFirmware(firmware);
         }
