@@ -9,6 +9,7 @@
             int baseAddress = 0;
             //Программатор не должен знать, какой размер flash памяти у микроконтроллера
             byte[] flashBuffer = new byte[32768];
+            Array.Fill(flashBuffer, (byte)0xFF);
 
             foreach (string item in records)
             {
